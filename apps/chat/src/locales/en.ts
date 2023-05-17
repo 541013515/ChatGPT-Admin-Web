@@ -17,7 +17,7 @@ const en: LocaleType = {
     GetEmailCode: "Get email verification code.",
     GetPhoneCode: "Get mobile phone verification code.",
     NoneData:
-      "Please make sure to input your email, password and verification code completely.",
+      "Please make sure to input your email and password completely.",
     EmailNonExistent: "Email does not exist, please re-enter.",
     NotYetRegister: "New users, please register first.",
     DuplicateRegistration: "This email has already been registered.",
